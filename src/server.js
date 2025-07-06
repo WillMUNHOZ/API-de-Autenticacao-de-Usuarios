@@ -32,8 +32,8 @@ mongoose
 
         server.on("error", (error) => {
             console.error("❌ Erro ao iniciar o servidor:", error.message);
-        })
+        });
     })
     .catch((error) => {
         console.error("❌ Erro ao conectar no banco de dados", error);
-    })
+    });
