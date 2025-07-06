@@ -65,7 +65,7 @@ Esta é uma API para autenticação de usuários, permitindo o registro, login, 
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/WillMUNHOZ/API-de-Autenticacao-de-Usuarios.git
    ```
 2. **Instale as dependências:**
    ```bash
